@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Java based games or project
 - 📫 How to reach me Discord/Twitter [x]! Discord: McSkip. (Include the dot c:)  Twitter: https://twitter.com/mc_skip23412
 - ✔  Pfp from https://twitter.com/HydeTweets/status/1401438363350011906?s=20 :)
-- GREENFOOT GAME IMAGE AND MUSIC FILES CURRENTLY BEING FIXED!
 <!---
 McSkip/McSkip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
